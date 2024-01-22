@@ -79,7 +79,7 @@ Let's push the boundaries of what's possible together! 🌈✨
    </a>
 <div align="center">
   <a href=" ">Website</a> •
-  <a href=" ">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ravindu-sathsara2024/">LinkedIn</a> •
   <a href="https://www.instagram.com/iammrraviofficial/">Instagram</a> •
   <a href="https://www.facebook.com/IamMrRaviOfficial">Facebook</a> •
   <a href="https://www.youtube.com/channel/UCLVjtg-TdEH9ekoFT8KbkJQ">Youtube</a>
