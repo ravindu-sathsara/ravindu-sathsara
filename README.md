@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi,%20I'm%20Ravi%20Official&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
 </div>
 
-<div align="center">
+<div align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Despairs&weight=700&size=25&pause=1000&color=F70000&background=FF25B900&vCenter=true&width=750&height=79&lines=HEY+Buddy! Welcome+to+my+Profile.MR+RAVI+OFFICIAL;I+am+Software+Engineer++%26+WebApp+Developer+...;I+am+YouTuber+%26+Freelancer+on+Fiverr+..." alt="Typing SVG" /></a>
 </div>
 
